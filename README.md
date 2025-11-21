@@ -1,5 +1,5 @@
 ## Hi there 👋
-⚡ Fun fact: doing a kick-jump with AI coding
+⚡ Doing a kick-jump with AI coding
 
 <!--
 **marekcwirko-coforge/marekcwirko-coforge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
